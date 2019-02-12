@@ -43,3 +43,11 @@ Java响应式编程 Springboot WebFlux基础与实战
 项目框架 spring boot, spring data jpa 
 
 可选组件 lombok/jclasslib/BytecodeViewe
+
+# 博客教程
+
+## [函数式编程和lambda表达式](https://www.jianshu.com/p/88a173c496dc)
+介绍函数式编程的概念，和lambda表达式的基础语法，并分析了惰性求值的应用和实现。最后同意反编译字节码，重点剖析了lambda表达式的底层实现原理
+
+## [Stream流编程](https://www.jianshu.com/p/17edd4faf74f)
+介绍jdk8里面stream流编程的重要知识点，并剖析流的运行机制和实现原理
